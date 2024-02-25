@@ -33,3 +33,5 @@ This script utilizes OpenCV, a popular computer vision library, to detect moving
 - This script serves as a basic example and can be expanded for more complex applications.
 
 
+![](1.png)
+![](Untitled.png)
