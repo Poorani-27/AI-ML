@@ -1,2 +1,0 @@
-### ybi internship 
-##### AIML
