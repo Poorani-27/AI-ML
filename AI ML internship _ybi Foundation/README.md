@@ -1,9 +1,9 @@
 # YBI Internship Program - AI and ML
 
-## Overview
+### Overview
 Welcome to my repository for the YBI foundations internship program! This repository serves as a record of my journey as an AI and ML Intern, where I am learning and working on various projects related to artificial intelligence and machine learning.
 
-## Internship Projects
+### Internship Projects
 This repository contains the projects I am working on during the internship program. Each project folder includes code, data, documentation, and any other resources related to the project.
 
 1. **Salary Prediction**
