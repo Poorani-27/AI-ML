@@ -1,6 +1,4 @@
-# 🚀 Welcome to My AI Master Class Journey!
-
-## Hey there, Tech Enthusiasts! 👋
+# 🚀 Welcome to My AI Master Class Journey 
 
 Welcome to my AI Master Class Guitar Repository! I'm thrilled to embark on this exciting journey of discovery and learning in the realm of artificial intelligence.
 
